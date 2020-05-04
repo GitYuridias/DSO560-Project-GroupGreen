@@ -2,8 +2,8 @@ This folder contains an .ipynb file that implements XGBoost for selected attribu
 data cleaning, vectorization of predictors (brand name, product name, product details, product description) and training of the model 
 itself. 
 
-Code implementation is done using local functions as the building blocks. As of file's current version, the final output is a list of 
-accuracy rates for every class and, if applicable, subclass that our group chose to predict.
+Code implementation is done using local functions as the building blocks, which are supplemented by clarifying comments and demonstrations.
+As of file's current version, the final output is a list of accuracy rates for every class and, if applicable, subclass that our 
+group chose to predict.
 
 Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in the master branch.
-
