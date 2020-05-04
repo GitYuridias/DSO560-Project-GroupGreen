@@ -1,0 +1,10 @@
+This folder contains all data and code related to implementing XGBoost for attributes' classification, with the latter including steps 
+like data loading, data cleaning, vectorization of predictors (brand name, product name, product details, product description) and 
+training of the model itself. 
+
+Code implementation of the above described steps, stored in 'Model Building (XGBoost).ipynb' file, is done using local functions as 
+the building blocks. As of file's current version, the final output is a list of accuracy rates for every class and, if applicable,
+subclass that our group chose to predict.
+
+Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in the master branch.
+
