@@ -6,4 +6,4 @@ Code implementation is done using local functions as the building blocks, which 
 As of file's current version, the final output is a list of lists for each class/sublclass that our group chose to predict that contains
 classification accuracy rates and a dataframe with sample actual and predicted labels.
 
-Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in the 'Preprocessing' folder.
+Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in this folder.
