@@ -1,9 +1,9 @@
 This folder contains an .ipynb file that implements XGBoost for selected attributes' classification, involving steps like data loading, 
-data cleaning, vectorization of predictors (brand name, product name, product details, product description) and training of the model 
-itself. 
+data cleaning, vectorization of predictors (brand name, product name, product details, product description), training of the model 
+itself and prediction on the subsetted labeled data.
 
 Code implementation is done using local functions as the building blocks, which are supplemented by clarifying comments and demonstrations.
-As of file's current version, the final output is a list of accuracy rates for every class and, if applicable, subclass that our 
-group chose to predict.
+As of file's current version, the final output is a list of lists for each class/sublclass that our group chose to predict that contains
+classification accuracy rates and a dataframe with sample actual and predicted labels.
 
-Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in the master branch.
+Please note that the helper document for data creation ('Preprocessing_Function.py') can be found in the 'Preprocessing' folder.
