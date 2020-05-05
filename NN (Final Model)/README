@@ -1,0 +1,8 @@
+This folder contains the code implementation of our final selected model, deep neural network. 
+
+We had out of vocabular errors, so we just performed predictions on the subsetted labelled data as professor mentioned in Slack.
+
+You are welcome to refer to the implementation of XGBoost as a substitute to this model as well, since both algorithms give similar
+performance, and both notebooks take about the same time to run.
+
+Please also note that the data preprocessing for this model is performed within the notebook itself.
