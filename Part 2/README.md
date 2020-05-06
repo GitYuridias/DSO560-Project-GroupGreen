@@ -5,4 +5,4 @@ Repo for Group Project of DSO 560 - Text Analytics and Natural Language Processi
 
 2. Open "Group_Green_Project_Part2_Function_Demonstration.ipynb" to test the recommendation model.  
 
-3. For detailed explanation of how the function is run, please download and view the "Group_Green_Project_Part2_Function_Demonstration.ipynb".
+3. For detailed explanation of how the function is run, please download and view the "Group_Green_Project_Part2_Function_Explanation.ipynb".
